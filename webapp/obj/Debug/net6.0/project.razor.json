@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\webapp\\webapp.csproj",
+  "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\Assignment3XTests-1\\webapp\\webapp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,38 +16298,38 @@
   "RootNamespace": "webapp",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\webapp\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\Assignment3XTests-1\\webapp\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\webapp\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\Assignment3XTests-1\\webapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\Assignment3XTests-1\\webapp\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\webapp\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\webapp\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\webapp\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\webapp\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\Assignment3XTests-1\\webapp\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Sang Ci\\Desktop\\Assignment3XTests\\webapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\Assignment3XTests-1\\webapp\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\Assignment3XTests-1\\webapp\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\bwoel\\OneDrive\\Desktop\\CIDM-4390 !!!!!\\Assignment3XTests-1\\webapp\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
